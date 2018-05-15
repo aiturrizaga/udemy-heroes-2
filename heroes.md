@@ -10,3 +10,4 @@
 * Atom
 * Flash
 * Flecha verde
+* Cyborg
